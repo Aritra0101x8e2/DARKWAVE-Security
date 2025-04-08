@@ -51,7 +51,7 @@ const Problem = () => {
           {problems.map((problem, index) => (
             <a
               key={index}
-              href="https://digital-fraud-awareness-aritra.vercel.app/"
+              href="https://dark-wave-analytics-aritra.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
