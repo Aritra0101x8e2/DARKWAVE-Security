@@ -48,9 +48,16 @@ const Solution = () => {
             </div>
 
             <a href="#features">
+            <a 
+  href="https://dark-wave-solutions-aritra.vercel.app/" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
   <Button className="bg-cyber-blue hover:bg-cyber-blue/90 text-white mt-6">
     Learn How It Works
   </Button>
+</a>
+
 </a>
 
           </div>
